@@ -91,7 +91,10 @@ function App() {
       </div>
 
       <p className="read-the-docs">
-        Click on the button to Add Random TODO's.
+        Click on the button ADD TODO to Add a TODO's.
+      </p>
+      <p className="read-the-docs">
+      Click on the button Completed to remove TODO's.
       </p>
     </>
   );
